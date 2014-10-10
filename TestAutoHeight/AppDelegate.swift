@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TestAutoHeight
 //
-//  Created by Administrator on 10/10/14.
+//  Created by abinop on 10/10/14.
 //  Copyright (c) 2014 TopCreations. All rights reserved.
 //
 
